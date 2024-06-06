@@ -1,7 +1,8 @@
 # 2024 Lab for BME Capstone Design
 
 ### System Summary
-![untitled](https://github.com/Baehyunsu20/2024_capstone/assets/60960835/474396f0-01a1-4d76-ac2c-bfda99118ee5)
+![untitled](https://github.com/Baehyunsu20/2024_capstone/assets/60960835/e4f4dfce-0512-4132-94d4-8506e7137402)
+
 
 
 

@@ -7,5 +7,7 @@
 
 
 ### Model Performance
-![image](https://github.com/Baehyunsu20/2024_capstone/assets/75521809/841857ec-caca-4462-9667-394298f9e98c)
-
+- RGB 학습
+![image](https://github.com/Baehyunsu20/2024_capstone/assets/75521809/2a0a2843-ef71-483f-8dd7-c343336d0f3f)
+- FIR 학습
+![image](https://github.com/Baehyunsu20/2024_capstone/assets/75521809/be04975a-72dd-45a2-b752-e71396788e97)

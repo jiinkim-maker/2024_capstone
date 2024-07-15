@@ -1,4 +1,5 @@
 # 2024 Lab for BME Capstone Design
+# BME 20 김지인, 배현수
 
 ### System Summary
 ![untitled](https://github.com/Baehyunsu20/2024_capstone/assets/60960835/e4f4dfce-0512-4132-94d4-8506e7137402)
